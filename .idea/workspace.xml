@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9332a149-6e8a-49b6-81ce-99de78b70850" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArtemExtensions/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArtemExtensions/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/BankManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/BankManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/BankRemoved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/BankName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/BankNameRemoved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/MonoBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/MonoBankRemoved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/NBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/NBURemoved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/PrivatBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/PrivatBankRemoved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/PrivatBankCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dto/PrivatBankCurrency.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2X7IusW26bEFDuHve46GPvw2mF0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9332a149-6e8a-49b6-81ce-99de78b70850" name="Changes" comment="" />
+      <created>1697973917373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697973917373</updated>
+    </task>
+    <servers />
+  </component>
+</project>
