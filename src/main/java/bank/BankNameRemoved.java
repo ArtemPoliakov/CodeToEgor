@@ -1,7 +1,7 @@
-//package bank;
-//
-//public enum BankName {
-//    MONO,
-//    PRIVAT,
-//    NBU
-//}
+package bank;
+
+enum BankName {
+    MONO,
+    PRIVAT,
+    NBU
+}
